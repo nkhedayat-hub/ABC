@@ -2,13 +2,3 @@
 > abc-move@0.1.0 dev
 > next dev
 
-  ▲ Next.js 14.2.3
-  - Local:        http://localhost:3000
-
- ✓ Starting...
- ✓ Ready in 2000ms
- ○ Compiling / ...
- ✓ Compiled / in 4.7s (513 modules)
- GET / 200 in 5004ms
- ○ Compiling /exercise/[slug] ...
- ✓ Compiled /exercise/[slug] in 3.9s (516 modules)
